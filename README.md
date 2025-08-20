@@ -3,8 +3,6 @@
 This repository demonstrates a complete machine learning pipeline applied to data collected from a **soil irrigation system**.  
 The system uses sensor readings (temperature, humidity, and motor state) to predict soil moisture.  
 
-This project was developed for showcasing in an **AI/ML workshop selection process**.
-
 ---
 
 ## 📂 Contents
